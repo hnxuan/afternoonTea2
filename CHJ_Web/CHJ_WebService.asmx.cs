@@ -27,6 +27,7 @@ namespace CHJ_Web
             return "Hello World";
         }
         //账单表字段
+        //测试
         struct BillStruct
         {
             public int id;
